@@ -114,6 +114,7 @@ Blockchain is a system of recording information in a way that makes it difficult
 			<img width="306" alt="render-one" src="https://miro.medium.com/max/1400/1*Wc-YRBsmZcjNsMBSqyYtuA.png">
 		</td>
 	</tr>
+</table>
 
 ## Merkle tree
 Merkle trees are made by hashing pairs of nodes repeatedly until only one hash remains; this hash is known as the Merkle Root or the Root Hash. They're built from the bottom, using Transaction IDs, which are hashes of individual transactions.
