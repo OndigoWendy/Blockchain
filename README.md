@@ -228,14 +228,6 @@ Gas fees are payments made by users to compensate for the computing energy requi
 Polygon. Polygon (previously known as the Matic Network) is a separate blockchain that provides scalable, secure and instant transactions with Ethereum currencies like ETH, USDC and DAI. As one of the first scaling solutions for Ethereum, cryptocurrencies must be "bridged" from Ethereum's blockchain to Polygon.
 
 <table>
-	<thead>
-		<td>
-			<b>SUMMARY</b>
-		</td>
-		<td>
-			<b>SUMMARY</b>
-		</td>
-	</thead>
 	<tr>
 		<td>
 			<img width="289" alt="code-one" src="https://forkast.news/wp-content/uploads/2021/12/polygon-1260x709.jpg">
