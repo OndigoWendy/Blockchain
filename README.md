@@ -139,5 +139,51 @@ Merkle trees are made by hashing pairs of nodes repeatedly until only one hash r
 	</tr>
 </table>
 
+## Block Structure
+
+<table>
+	<thead>
+		<td>
+			<b>SUMMARY</b>
+		</td>
+		<td>
+			<b>SUMMARY</b>
+		</td>
+	</thead>
+	<tr>
+		<td>
+			<img width="289" alt="code-one" src="https://www.theengineeringprojects.com/wp-content/uploads/2021/06/Structure-of-a-Block-in-Blockchain.png">
+		</td>
+		<td>
+			<img width="306" alt="render-one" src="https://csharpcorner-mindcrackerinc.netdna-ssl.com/article/temp/77018/Images/3.png">
+		</td>
+	</tr>
+</table>
+
+## Mining and Forging
+<table>
+	<thead>
+		<td>
+			<b>SUMMARY</b>
+		</td>
+		<td>
+			<b>SUMMARY</b>
+		</td>
+	</thead>
+	<tr>
+		<td>
+			<img width="289" alt="code-one" src="https://i0.wp.com/coinsutra.com/wp-content/uploads/2021/05/POW-vs-POS.jpg?fit=1126%2C648&amp;ssl=1">
+		</td>
+		<td>
+			<img width="306" alt="render-one" src="https://blog.nexioprojects.com/hs-fs/hubfs/PoW%20%26%20PoS%20Systems.png?width=906&name=PoW%20%26%20PoS%20Systems.png">
+		</td>
+	</tr>
+</table>
+
+
+
+
+
+
 
 
