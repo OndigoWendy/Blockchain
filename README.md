@@ -180,6 +180,27 @@ Merkle trees are made by hashing pairs of nodes repeatedly until only one hash r
 	</tr>
 </table>
 
+## Blockchain forks
+In blockchain, a fork is defined variously as: "what happens when a blockchain diverges into two potential paths forward" "a change in protocol", or. a situation that "occurs when two or more blocks have the same block height"
+
+<table>
+	<thead>
+		<td>
+			<b>SUMMARY</b>
+		</td>
+		<td>
+			<b>SUMMARY</b>
+		</td>
+	</thead>
+	<tr>
+		<td>
+			<img width="289" alt="code-one" src="https://miro.medium.com/max/1400/1*jsagqs-_eogSxMJlPUr8Yw.png">
+		</td>
+		<td>
+			<img width="306" alt="render-one" src="https://www.investopedia.com/thmb/9VwG87pHVAvA2d2KuDGl0lXRPpg=/5751x2501/filters:no_upscale():max_bytes(150000):strip_icc()/HardForkBlockchain3-6f5d8ce52f8a4dcba1137264e0d6c2d6.png">
+		</td>
+	</tr>
+</table>
 
 
 
