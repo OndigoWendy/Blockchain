@@ -202,6 +202,30 @@ In blockchain, a fork is defined variously as: "what happens when a blockchain d
 	</tr>
 </table>
 
+## Network/Gas Fees
+Gas fees are payments made by users to compensate for the computing energy required to process and validate transactions on the Ethereum blockchain. "Gas limit" refers to the maximum amount of gas (or energy) that you're willing to spend on a particular transaction.
+
+<table>
+	<thead>
+		<td>
+			<b>SUMMARY</b>
+		</td>
+		<td>
+			<b>SUMMARY</b>
+		</td>
+	</thead>
+	<tr>
+		<td>
+			<img width="289" alt="code-one" src="https://www.mangoresearch.co/wp-content/uploads/2018/08/Ethereum-Gas-Price-vs-Gas-Limit-Analogy-Infographic.png">
+		</td>
+		<td>
+			<img width="306" alt="render-one" src="https://pbs.twimg.com/media/FFsQ6AZVgAAoQc4?format=jpg&name=large">
+		</td>
+	</tr>
+</table>
+
+
+
 
 
 
