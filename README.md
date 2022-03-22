@@ -112,6 +112,28 @@ Categories:
 		</td>
 	</tr>
 
+## Merkle tree
+Merkle trees are made by hashing pairs of nodes repeatedly until only one hash remains; this hash is known as the Merkle Root or the Root Hash. They're built from the bottom, using Transaction IDs, which are hashes of individual transactions.
+
+
+<table>
+	<thead>
+		<td>
+			<b>SUMMARY</b>
+		</td>
+		<td>
+			<b>SUMMARY</b>
+		</td>
+	</thead>
+	<tr>
+		<td>
+			<img width="289" alt="code-one" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/MerkleTree-min-1024x512.png">
+		</td>
+		<td>
+			<img width="306" alt="render-one" src="https://miro.medium.com/max/860/1*Qepq5qELhlPKwKUhDoEMEA.png">
+		</td>
+	</tr>
+
 
 
 
