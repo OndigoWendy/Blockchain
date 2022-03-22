@@ -15,3 +15,10 @@ Blockchain is an immutable decentralized ledger where records are replicated on 
 * 2018 World leaders explore bloackchain.
 * 2020 NFT's,Defi and other money legos.
 * 2021 GameFi.
+
+## Game Theory & Consensus Mechanism
+
+**n** |**Confess** | **Don't** |
+----------|:----------:| :----------:
+Confess | (-10,-10)| (0,-20)
+Dont | (-20,-) |(-1,-1)
