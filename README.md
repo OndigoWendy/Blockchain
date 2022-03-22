@@ -136,7 +136,7 @@ Merkle trees are made by hashing pairs of nodes repeatedly until only one hash r
 			<img width="306" alt="render-one" src="https://miro.medium.com/max/860/1*Qepq5qELhlPKwKUhDoEMEA.png">
 		</td>
 	</tr>
-
+</table>
 
 
 
