@@ -59,3 +59,42 @@ Dont | (-20,-) |(-1,-1)
 
 A cryptographic hash function is an algorithm that takes an arbitrary amount of data input—a credential—and produces a fixed-size output of enciphered text called a hash value, or just “hash.” That enciphered text can then be stored instead of the password itself, and later used to verify the user.
 
+## Digital Signature
+A digital signature is a mathematical technique used to validate the authenticity and integrity of a message, software or digital document. It's the digital equivalent of a handwritten signature or stamped seal, but it offers far more inherent security.
+
+<table>
+	<thead>
+		<td>
+			<b>SUMMARY</b>
+		</td>
+		<td>
+			<b>SUMMARY</b>
+		</td>
+	</thead>
+	<tr>
+		<td>
+			<img width="289" alt="code-one" src="https://i.pinimg.com/originals/41/d8/fd/41d8fdc06edc2ff3a0414c2b29c0c353.jpg">
+		</td>
+		<td>
+			<img width="306" alt="render-one" src="https://pongafrica.com/wp-content/uploads/2020/04/how-it-works.png">
+		</td>
+	</tr>
+	
+</table>
+
+## Accounts and Wallets
+Categories:
+* Hot Wallets and cold wallets.
+* Custodial Wallets and Non-custodial wallets.
+* Web wallets
+* Mobile wallets
+* Desktop wallets
+* Hardware wallets
+* Paper wallets
+* Smart contract wallets
+
+
+
+
+
+
