@@ -22,3 +22,9 @@ Blockchain is an immutable decentralized ledger where records are replicated on 
 ----------|:----------:| :----------:
 Confess | (-10,-10)| (0,-20)
 Dont | (-20,-) |(-1,-1)
+
+## Types of blockchain
+
+* Public
+* Private
+* Consortium
