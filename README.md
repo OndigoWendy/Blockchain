@@ -93,7 +93,24 @@ Categories:
 * Paper wallets
 * Smart contract wallets
 
-
+## Blockchain Transcations
+<table>
+	<thead>
+		<td>
+			<b>SUMMARY</b>
+		</td>
+		<td>
+			<b>SUMMARY</b>
+		</td>
+	</thead>
+	<tr>
+		<td>
+			<img width="289" alt="code-one" src="https://www.euromoney.com/learning/~/media/4305AB9860D34A26ACBD34FCC9422684.png?la=en&hash=31AFCC82578BB687B747D53597B8487825DC2CFA">
+		</td>
+		<td>
+			<img width="306" alt="render-one" src="https://miro.medium.com/max/1400/1*Wc-YRBsmZcjNsMBSqyYtuA.png">
+		</td>
+	</tr>
 
 
 
