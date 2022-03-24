@@ -1,7 +1,13 @@
 pragma solidity 0.5.0;
 
 contract School {
+    address public lecturer;
     mapping (address => uint ) public Students;  //get all students>public
+
+    modifier(){
+        require (msg.sender == lecturer , "Not Authorised");
+        _;
+    }
     // struct StudentDetails {
     //     string Name,
     //     uint Age,
@@ -23,3 +29,11 @@ contract School {
         
     }
 }
+
+//Allow school vc to read scores if school is public
+
+// contract VC is School {
+//     function readScore(address _student) public view return (uint){
+//         returns Students[_student]
+//     }
+// }
