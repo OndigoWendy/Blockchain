@@ -2,15 +2,19 @@ pragma solidity 0.5.0;
 
 contract School {
     address public lecturer;
+   
+
     mapping (address => uint ) public Students;  //get all students>public
 
     modifier isLecturer(){
         require(msg.sender == lecturer , "Not Authorised");
         _;
     }
+   
 
     constructor() public{
         lecturer = msg.sender;
+       
     }
     // struct StudentDetails {
     //     string Name,
@@ -27,8 +31,13 @@ contract School {
         return true;
 
     }
+   
     function getScore(address _student)
-    public view returns (uint) {
+    public view returns(uint){
+        // if (Students[_student] == 0){
+        //     return 1;
+        // }
+        require (Students[msg.sender] !=0 ,"Not a student");
         return Students[_student];
         
     }

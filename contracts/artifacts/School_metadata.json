@@ -108,9 +108,9 @@
 	},
 	"sources": {
 		"contracts/school.sol": {
-			"keccak256": "0xa6b95d844af7538565bff4ac87c2b794c5061fc6b86a59382fc1cc6fe69dd942",
+			"keccak256": "0x5f43eb8ee490821145692ad1d6d9d94bd88ab3f0259c12eb6bd64cf59322009e",
 			"urls": [
-				"bzzr://3c00757dd55608bb6b691993cd8357c3554c334f9facac9008727c3465ee3eb0"
+				"bzzr://e412b4e5bc7c3ca20efe1c79f3a0cfb89edca9fc95be27a61811445c2353f3ea"
 			]
 		}
 	},
