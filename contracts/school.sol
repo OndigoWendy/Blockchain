@@ -4,9 +4,13 @@ contract School {
     address public lecturer;
     mapping (address => uint ) public Students;  //get all students>public
 
-    modifier(){
-        require (msg.sender == lecturer , "Not Authorised");
+    modifier isLecturer(){
+        require(msg.sender == lecturer , "Not Authorised");
         _;
+    }
+
+    constructor() public{
+        lecturer = msg.sender;
     }
     // struct StudentDetails {
     //     string Name,
@@ -18,12 +22,12 @@ contract School {
     //     Student [_student]
     // }
     function setScore(address _student , uint _score)
-    public returns (bool) {
+    public isLecturer returns (bool) {
         Students[_student] = _score;
         return true;
 
     }
-    function gettScore(address _student)
+    function getScore(address _student)
     public view returns (uint) {
         return Students[_student];
         

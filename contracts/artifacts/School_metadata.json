@@ -26,13 +26,27 @@
 			},
 			{
 				"constant": true,
+				"inputs": [],
+				"name": "lecturer",
+				"outputs": [
+					{
+						"name": "",
+						"type": "address"
+					}
+				],
+				"payable": false,
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"constant": true,
 				"inputs": [
 					{
 						"name": "_student",
 						"type": "address"
 					}
 				],
-				"name": "gettScore",
+				"name": "getScore",
 				"outputs": [
 					{
 						"name": "",
@@ -65,6 +79,12 @@
 				"payable": false,
 				"stateMutability": "nonpayable",
 				"type": "function"
+			},
+			{
+				"inputs": [],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "constructor"
 			}
 		],
 		"devdoc": {
@@ -88,9 +108,9 @@
 	},
 	"sources": {
 		"contracts/school.sol": {
-			"keccak256": "0x6d8a453f902c01f1dc131545dc4c187d6c5b5f465f13ba3a7dde77a3be6c2b8a",
+			"keccak256": "0xa6b95d844af7538565bff4ac87c2b794c5061fc6b86a59382fc1cc6fe69dd942",
 			"urls": [
-				"bzzr://9de0e39ef49e605ae8655ecfa0d2d2dc2156ee497b2880f5ca46953d78ce4b9f"
+				"bzzr://3c00757dd55608bb6b691993cd8357c3554c334f9facac9008727c3465ee3eb0"
 			]
 		}
 	},
