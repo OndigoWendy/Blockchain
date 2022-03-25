@@ -388,7 +388,7 @@ Blockchain for digital assets revolves around the creation of unique digital rep
 			<img width="289" alt="code-one" src="https://miro.medium.com/max/1200/1*3h0oJILfDFokUaW_OZKxMw.jpeg">
 		</td>
 		<td>
-			<img width="306" alt="render-one" src="https://www.researchgate.net/profile/Kamanashis-Biswas/publication/333860173/figure/fig1/AS:774965867585537@1561777669972/Blockchain-crypto-asset-classes.png
+			<img width="306" alt="render-one" src="https://www.researchgate.net/profile/Kamanashis-Biswas/publication/333860173/figure/fig1/AS:774965867585537@1561777669972/Blockchain-crypto-asset-classes.png ">
 		</td>
 	</tr>
 
@@ -428,7 +428,7 @@ Blockchain for digital assets revolves around the creation of unique digital rep
 
 </table>
 
-https://cdn.consensys.net/uploads/2021/02/12220415/EswPwwoW8AMXPkt.jpg
+
 
 # DeFi Decentralized Finance
 <table>
@@ -489,7 +489,7 @@ In the field of crypto-backed lending, collateral is the cryptocurrency asset th
 
 </table>
 
-# DeFi Decentralized Finance
+# Web3 and ABI : Smart Contract Interaction
 <table>
 	<thead>
 		<td>
