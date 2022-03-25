@@ -428,9 +428,36 @@ Blockchain for digital assets revolves around the creation of unique digital rep
 
 </table>
 
-https://www.metaco.com/wp-content/uploads/2021/05/AtoZ-Digital-Assets-Glossary-Definitions-Tokens-20.jpg
+https://cdn.consensys.net/uploads/2021/02/12220415/EswPwwoW8AMXPkt.jpg
 
 # DeFi Decentralized Finance
+<table>
+	<thead>
+		<td>
+			<b>SUMMARY</b>
+		</td>
+		<td>
+			<b>SUMMARY</b>
+		</td>
+	</thead>
+	<tr>
+		<td>
+			<img width="289" alt="code-one" src="https://pbs.twimg.com/media/EswPwwoW8AMXPkt?format=jpg&name=large">
+		</td>
+		<td>
+			<img width="306" alt="render-one" src="https://miro.medium.com/max/1200/1*CFNRj37dgLdTYRH_tYoQjQ.png">
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img width="289" alt="code-one" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ3W8GO5aXtYq6wuFqrnVQ0-AougRr_trsUA&usqp=CAU">
+		</td>
+		<td>
+			<img width="306" alt="render-one" src="https://assets-global.website-files.com/5f5504366445c3972f45286e/5fc0bab9c53fa0ccdf334f42_Blog_CryptoLoans_25.jpg">
+		</td>
+	</tr>
+
+</table>
 
 
 
