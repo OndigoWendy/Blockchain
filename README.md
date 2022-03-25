@@ -300,6 +300,58 @@ Smart contracts are simply programs stored on a blockchain that run when predete
 	</tr>
 </table>
 
+<table>
+	<thead>
+		<td>
+			<b>SUMMARY</b>
+		</td>
+		<td>
+			<b>SUMMARY</b>
+		</td>
+	</thead>
+	<tr>
+		<td>
+			<img width="289" alt="code-one" src="https://miro.medium.com/max/799/1*p3dhgD5AwVbXtyT-hIZWlg.png">
+		</td>
+		<td>
+			<img width="306" alt="render-one" src="https://cri-lab.net/wp-content/uploads/2018/03/Block1-1.png">
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img width="289" alt="code-one" src="https://www.researchgate.net/profile/Siddique_Latif/publication/331730251/figure/fig3/AS:749264179302401@1555649909415/Examples-of-blockchain-based-network-applications-and-their-solutions.ppm">
+		</td>
+		<td>
+			<img width="306" alt="render-one" src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs42600-020-00106-3/MediaObjects/42600_2020_106_Fig2_HTML.png">
+		</td>
+	</tr>
+</table>
+
+
+## CRYPTO REGULATIONS
+<table>
+	<thead>
+		<td>
+			<b>SUMMARY</b>
+		</td>
+		<td>
+			<b>SUMMARY</b>
+		</td>
+	</thead>
+	<tr>
+		<td>
+			<img width="289" alt="code-one" src="https://www.researchgate.net/profile/Tatyana-Ryabova/publication/336675378/figure/fig1/AS:816519080579073@1571684727644/CRYPTOCURRENCIES-REGULATIONS-BY-COUNTRIES.png">
+		</td>
+		<td>
+			<img width="306" alt="render-one" src="https://www.personalfinanceclub.com/wp-content/uploads/2021/07/2021-07-22-Bitcoin-vs-SP500-YTD.png
+		</td>
+	</tr>
+
+</table>
+
+
+
+
 
 
 
