@@ -1,0 +1,77 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "printhelloworld",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "worlds",
+						"type": "string"
+					}
+				],
+				"name": "writestatement",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/web3demo.sol": "web3contract"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/web3demo.sol": {
+			"keccak256": "0x0a9d82f7c9ad62378107c69a7d9c81e2ce428ade6919e5e3272d2947266f2729",
+			"urls": [
+				"bzz-raw://003f68895863a0e2ba7aa0d60212b99e616ff88158c982ccb2e95499aaaa9697",
+				"dweb:/ipfs/Qmb6UvBFoQMAimBPb8d8MAZLqMksrivxJLdJWixs91ua6e"
+			]
+		}
+	},
+	"version": 1
+}
