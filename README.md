@@ -257,6 +257,41 @@ Smart contracts are simply programs stored on a blockchain that run when predete
 	</tr>
 </table>
 
+## Blockchain applications
+* Healthcare
+* Gaming and Amusement.
+* E-Governance in Blockchain and DAOs.
+* Supply chain management.
+
+## Opportunities for smart contracts in banks and financial institutions.
+* Trade clearing and settlement.
+* Supply Chai nand trade finance documentation.
+* SImplification of complicated processes
+* Improved securities
+* Lending with well defines T&C's
+* MInimized entry barriers for SMB's
+* Versatile Tokenization.
+* Efficient online donations
+
+<table>
+	<thead>
+		<td>
+			<b>SUMMARY</b>
+		</td>
+		<td>
+			<b>SUMMARY</b>
+		</td>
+	</thead>
+	<tr>
+		<td>
+			<img width="289" alt="code-one" src="https://4.bp.blogspot.com/-WkjIEl-2TQA/XJS0BftT3GI/AAAAAAAAfDA/CTurqzh6s94Dj2tpoI57GtZiiXd83iqkgCLcBGAs/s1600/wsi-imageoptim-smartcontracts2.jpg">
+		</td>
+		<td>
+			<img width="306" alt="render-one" src="https://www.deccanherald.com/sites/dh/files/styles/article_detail/public/article_images/2019/10/23/file77nb8dh7bibabtzff6p-1571770279.jpg?itok=YVyuDdR1">
+		</td>
+	</tr>
+</table>
+
 
 
 
