@@ -459,6 +459,70 @@ https://cdn.consensys.net/uploads/2021/02/12220415/EswPwwoW8AMXPkt.jpg
 
 </table>
 
+# Asset management and Collaterization of the Blockchain
+In the field of crypto-backed lending, collateral is the cryptocurrency asset that the borrower pledges as a guarantee that the loan is going to be repaid.
+<table>
+	<thead>
+		<td>
+			<b>SUMMARY</b>
+		</td>
+		<td>
+			<b>SUMMARY</b>
+		</td>
+	</thead>
+	<tr>
+		<td>
+			<img width="289" alt="code-one" src="https://image.slidesharecdn.com/alfasoftcollateralregistryblockchain-180821104117/85/collateral-registration-system-based-on-blockchain-technologies-9-320.jpg?cb=1534848340">
+		</td>
+		<td>
+			<img width="306" alt="render-one" src="https://miro.medium.com/max/1400/1*9ZP1Y3OJg0oa6b9VO8F0aw.png">
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img width="289" alt="code-one" src="https://d33wubrfki0l68.cloudfront.net/8f6e33acc1b29ce3313c5678a033468ff24b1d85/c8724/images/blog/centrifuge/image3.png">
+		</td>
+		<td>
+			<img width="306" alt="render-one" src="https://miro.medium.com/max/3152/1*m-UEgMAPmjaIr6jLMBhXdg.png">
+		</td>
+	</tr>
+
+</table>
+
+# DeFi Decentralized Finance
+<table>
+	<thead>
+		<td>
+			<b>SUMMARY</b>
+		</td>
+		<td>
+			<b>SUMMARY</b>
+		</td>
+	</thead>
+	<tr>
+		<td>
+			<img width="289" alt="code-one" src="https://pbs.twimg.com/media/EswPwwoW8AMXPkt?format=jpg&name=large">
+		</td>
+		<td>
+			<img width="306" alt="render-one" src="https://miro.medium.com/max/1200/1*CFNRj37dgLdTYRH_tYoQjQ.png">
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img width="289" alt="code-one" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ3W8GO5aXtYq6wuFqrnVQ0-AougRr_trsUA&usqp=CAU">
+		</td>
+		<td>
+			<img width="306" alt="render-one" src="https://assets-global.website-files.com/5f5504366445c3972f45286e/5fc0bab9c53fa0ccdf334f42_Blog_CryptoLoans_25.jpg">
+		</td>
+	</tr>
+
+</table>
+
+
+
+
+
+
 
 
 
