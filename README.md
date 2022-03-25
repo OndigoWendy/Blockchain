@@ -236,7 +236,7 @@ Gas fees are payments made by users to compensate for the computing energy requi
 </table>
 
 ## SMART CONTRACTS
-A smart contract is a computer program or a transaction protocol which is intended to automatically execute, control or document legally relevant events and actions according to the terms of a contract or an agreement. 
+Smart contracts are simply programs stored on a blockchain that run when predetermined conditions are met. They typically are used to automate the execution of an agreement so that all participants can be immediately certain of the outcome, without any intermediary’s involvement or time loss. They can also automate a workflow, triggering the next action when conditions are met. 
 
 <table>
 	<thead>
