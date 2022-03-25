@@ -385,22 +385,52 @@ Blockchain for digital assets revolves around the creation of unique digital rep
 	</thead>
 	<tr>
 		<td>
-			<img width="289" alt="code-one" src="https://www.researchgate.net/profile/Tatyana-Ryabova/publication/336675378/figure/fig1/AS:816519080579073@1571684727644/CRYPTOCURRENCIES-REGULATIONS-BY-COUNTRIES.png">
+			<img width="289" alt="code-one" src="https://miro.medium.com/max/1200/1*3h0oJILfDFokUaW_OZKxMw.jpeg">
 		</td>
 		<td>
-			<img width="306" alt="render-one" src="https://www.personalfinanceclub.com/wp-content/uploads/2021/07/2021-07-22-Bitcoin-vs-SP500-YTD.png
+			<img width="306" alt="render-one" src="https://www.researchgate.net/profile/Kamanashis-Biswas/publication/333860173/figure/fig1/AS:774965867585537@1561777669972/Blockchain-crypto-asset-classes.png
 		</td>
 	</tr>
 
 </table>
 
 
+## CLASSIFICATION
+* Digital MOney
+* Electronic money
+* Digital money
 
+<table>
+	<thead>
+		<td>
+			<b>SUMMARY</b>
+		</td>
+		<td>
+			<b>SUMMARY</b>
+		</td>
+	</thead>
+	<tr>
+		<td>
+			<img width="289" alt="code-one" src="https://miro.medium.com/max/1200/1*3h0oJILfDFokUaW_OZKxMw.jpeg">
+		</td>
+		<td>
+			<img width="306" alt="render-one" src="https://www.researchgate.net/profile/Kamanashis-Biswas/publication/333860173/figure/fig1/AS:774965867585537@1561777669972/Blockchain-crypto-asset-classes.png">
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img width="289" alt="code-one" src="https://www.researchgate.net/profile/Pascal-Egloff-4/publication/349646777/figure/fig1/AS:995805901094914@1614430036999/Evolution-of-digital-assets-security-tokens.png">
+		</td>
+		<td>
+			<img width="306" alt="render-one" src="https://www.metaco.com/wp-content/uploads/2021/05/AtoZ-Digital-Assets-Glossary-Definitions-Tokens-20.jpg">
+		</td>
+	</tr>
 
+</table>
 
+https://www.metaco.com/wp-content/uploads/2021/05/AtoZ-Digital-Assets-Glossary-Definitions-Tokens-20.jpg
 
-
-
+# DeFi Decentralized Finance
 
 
 
