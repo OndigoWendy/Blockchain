@@ -371,7 +371,9 @@ Smart contracts are simply programs stored on a blockchain that run when predete
 </table>
 
 ## DIGITAL ASSET
-lockchain for digital assets revolves around the creation of unique digital representations of assets that go beyond traditional financial instruments, and which enable you to trade any kind of asset with more liquidity and speed, at lower cost.
+A digital asset is anything that is stored digitally and is uniquely identifiable that organizations can use to realize value. Examples of digital assets include documents, audio, videos, logos, slide presentations, spreadsheets and websites.
+
+Blockchain for digital assets revolves around the creation of unique digital representations of assets that go beyond traditional financial instruments, and which enable you to trade any kind of asset with more liquidity and speed, at lower cost.
 <table>
 	<thead>
 		<td>
