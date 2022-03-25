@@ -284,10 +284,10 @@ Smart contracts are simply programs stored on a blockchain that run when predete
 	</thead>
 	<tr>
 		<td>
-			<img width="289" alt="code-one" src="https://4.bp.blogspot.com/-WkjIEl-2TQA/XJS0BftT3GI/AAAAAAAAfDA/CTurqzh6s94Dj2tpoI57GtZiiXd83iqkgCLcBGAs/s1600/wsi-imageoptim-smartcontracts2.jpg">
+			<img width="289" alt="code-one" src="https://miro.medium.com/max/799/1*p3dhgD5AwVbXtyT-hIZWlg.png">
 		</td>
 		<td>
-			<img width="306" alt="render-one" src="https://www.deccanherald.com/sites/dh/files/styles/article_detail/public/article_images/2019/10/23/file77nb8dh7bibabtzff6p-1571770279.jpg?itok=YVyuDdR1">
+			<img width="306" alt="render-one" src="https://cri-lab.net/wp-content/uploads/2018/03/Block1-1.png">
 		</td>
 	</tr>
 </table>
