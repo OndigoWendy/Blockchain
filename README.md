@@ -349,6 +349,51 @@ Smart contracts are simply programs stored on a blockchain that run when predete
 
 </table>
 
+## CRYPTO REGULATIONS
+<table>
+	<thead>
+		<td>
+			<b>SUMMARY</b>
+		</td>
+		<td>
+			<b>SUMMARY</b>
+		</td>
+	</thead>
+	<tr>
+		<td>
+			<img width="289" alt="code-one" src="https://www.researchgate.net/profile/Tatyana-Ryabova/publication/336675378/figure/fig1/AS:816519080579073@1571684727644/CRYPTOCURRENCIES-REGULATIONS-BY-COUNTRIES.png">
+		</td>
+		<td>
+			<img width="306" alt="render-one" src="https://www.personalfinanceclub.com/wp-content/uploads/2021/07/2021-07-22-Bitcoin-vs-SP500-YTD.png
+		</td>
+	</tr>
+
+</table>
+
+## DIGITAL ASSET
+lockchain for digital assets revolves around the creation of unique digital representations of assets that go beyond traditional financial instruments, and which enable you to trade any kind of asset with more liquidity and speed, at lower cost.
+<table>
+	<thead>
+		<td>
+			<b>SUMMARY</b>
+		</td>
+		<td>
+			<b>SUMMARY</b>
+		</td>
+	</thead>
+	<tr>
+		<td>
+			<img width="289" alt="code-one" src="https://www.researchgate.net/profile/Tatyana-Ryabova/publication/336675378/figure/fig1/AS:816519080579073@1571684727644/CRYPTOCURRENCIES-REGULATIONS-BY-COUNTRIES.png">
+		</td>
+		<td>
+			<img width="306" alt="render-one" src="https://www.personalfinanceclub.com/wp-content/uploads/2021/07/2021-07-22-Bitcoin-vs-SP500-YTD.png
+		</td>
+	</tr>
+
+</table>
+
+
+
 
 
 
